@@ -8,7 +8,7 @@ import com.qualcomm.robotcore.hardware.IMU;
 
 @TeleOp(name="JadonMovementTest BAHAHAAH")
 public class JadonMovementTest extends OpMode {
-    private DcMotor backLeft;
+    private DcMotor backLeft;//hilmao
     private DcMotor backRight;
     private DcMotor frontLeft;
     private DcMotor frontRight;
